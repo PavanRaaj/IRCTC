@@ -1,0 +1,134 @@
+header{
+    margin-top: -20px;
+    width: auto;
+    height: 60px;
+    background-color: #377AB7;
+}
+.ire{
+    font-size: 18px;
+    color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-top: 20px;
+    margin-left: 300px;
+    cursor: pointer;
+}
+.pnr{
+    font-size: 14px;
+    color:  white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -35px;
+    margin-left: 530px;
+    cursor: pointer;
+}
+.train{
+    font-size: 14px;
+    color:  white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -30px;
+    margin-left: 660px;
+    cursor: pointer;
+}
+.seat{
+    font-size: 14px;
+    color:  white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -30px;
+    margin-left: 900px;
+    cursor: pointer;
+}
+.fare{
+    font-size: 14px;
+    color:  white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -30px;
+    margin-left: 1030px;
+    cursor: pointer;
+}
+.rts{
+    font-size: 14px;
+    color:  white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -30px;
+    margin-left: 1150px;
+    cursor: pointer;
+}
+.box{
+    background-color: white;
+    width: 900px;
+    height: 150px;
+    margin-left: 450px;
+}
+.indlogo{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+.title{
+    font-size: 24px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-top: -60px;
+    margin-left: 150px;
+}
+.emblem{
+    width: 130px;
+    height: 100px;
+    margin-top: -60px;  
+    margin-left: 700px; 
+}
+
+.box2{
+    width: 900px;
+    height: 60px;
+    background-color: #377AB7;
+    margin-top: 35px;
+    margin-left: 500px;
+}
+.pass{
+    font-size: 24px;
+    font-family: inherit;
+    color: white;
+    padding-top: 15px;
+    margin-left: 200px;
+}
+.text{
+    font-size: 18px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 550px;
+    margin-top: 50px;
+}
+.text2{
+    font-size: 18px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin-left: 900px;
+}
+#pnrNo{
+    font-size: 18px;
+    height: 20px;
+    margin-left: 200px;
+  
+}
+.enter{
+    font-size: 18px;
+    margin-left: 700px;
+}
+.submit{
+    width: 70px;
+    height: 30px;
+    font-size: 18px;
+    background-color: #377AB7;
+    color: white;
+    margin-left: 1050px;
+}
+.reset{
+    width: 70px;
+    height: 30px;
+    font-size: 18px;
+    background-color: #377AB7;
+    color: white;
+    margin-left: 10px;
+}
+button{
+    width: 120px;
+    margin-left: 300px;
+    font-size: 18px;
+}
